@@ -5,3 +5,14 @@ NIM           : 20160803098
 Mata Kuliah   : Infrastruktur Manajemen dan Layanan IT
 Program Studi : Sistem Informasi
 Fakultas      : Ilmu Komputer
+
+Nama          : Rizal Ajie Wiyono
+NIM           : 20160803092
+Mata Kuliah   : Infrastruktur Manajemen dan Layanan IT
+Program Studi : Sistem Informasi
+Fakultas      : Ilmu Komputer
+
+Nama          : Rizki Bambang Saputra
+NIM           : 20160803094
+Mata Kuliah   : Infrastruktur dan Manajemen Layanan IT
+Fakultas      : Ilmu Komputer
