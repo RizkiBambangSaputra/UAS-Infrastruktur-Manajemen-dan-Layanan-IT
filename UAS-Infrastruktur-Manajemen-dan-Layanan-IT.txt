@@ -22,3 +22,7 @@ Fakultas      : Ilmu Komputer
 Nama          : Rizal Ajie Wiyono
 NIM           : 20160803092
 Status        : Confirmed
+
+Nama          : Rizki Bambang Saputra
+NIM           : 20160803094
+Status        : Confirmed
